@@ -179,3 +179,91 @@ OBJETIVO:
 - Transição: destacar transferência de skills
 - Crescimento: focar em skills avançadas
 \
+
+Ótima observação! Vamos incluir **Git e GitHub** logo no início do seu roadmap, porque dominar versionamento e colaboração é essencial para qualquer desenvolvedor web.  
+
+Aqui está a versão ajustada do **Roadmap de 120 dias**:
+
+---
+
+## 📅 ROADMAP DE 120 DIAS (atualizado)
+
+**ADAPTADO PARA: 6 horas/semana**
+
+### MÊS 1 – FUNDAMENTOS  
+**SEMANA 1-2:**  
+- Introdução ao Git e GitHub: criar repositórios, commits, branches, pull requests  
+- HTML e CSS: estrutura e estilização de páginas  
+- Prática com layouts responsivos  
+
+**SEMANA 3-4:**  
+- JavaScript básico: variáveis, funções, DOM  
+- Exercícios práticos com interatividade  
+- Publicar pequenos projetos no GitHub (ex: página pessoal)  
+
+---
+
+### MÊS 2 – FRONT-END AVANÇADO  
+**SEMANA 5-6:**  
+- React: componentes, props, estado  
+- Criar uma aplicação simples (To-do list)  
+- Versionar e documentar no GitHub  
+
+**SEMANA 7-8:**  
+- React Router e hooks  
+- Integração com APIs públicas (ex: consumo de dados de clima)  
+- Criar README detalhado no GitHub  
+
+---
+
+### MÊS 3 – BACK-END  
+**SEMANA 9-10:**  
+- Node.js e Express: criação de servidores  
+- Rotas e middlewares básicos  
+- Publicar código no GitHub com boas práticas  
+
+**SEMANA 11-12:**  
+- Banco de dados SQL e NoSQL  
+- CRUD completo (Create, Read, Update, Delete)  
+- Documentar API no GitHub (ex: usando Markdown)  
+
+---
+
+### MÊS 4 – PORTFÓLIO E PREPARAÇÃO  
+**SEMANA 13-14:**  
+- Projeto integrando front-end e back-end  
+- Autenticação de usuários (login e cadastro)  
+- Criar issues e organizar tarefas no GitHub  
+
+**SEMANA 15-16:**  
+- Deploy em plataformas gratuitas (Vercel, Render, Netlify)  
+- Preparação para entrevistas e revisão de portfólio  
+- Criar portfólio no GitHub Pages  
+
+---
+
+## 🚀 PROJETO DE PORTFÓLIO
+
+**PROJETO:** Plataforma de Tarefas Colaborativas  
+
+**O QUE FAZER:**  
+Criar uma aplicação web onde usuários podem se cadastrar, criar tarefas e acompanhar progresso.  
+
+**ENTREGÁVEIS:**  
+- Front-end responsivo em React  
+- Back-end em Node.js com banco de dados  
+- Deploy funcional acessível online  
+- Repositório GitHub com README completo  
+
+**CRITÉRIOS DE ACEITAÇÃO:**  
+- Usuários conseguem se cadastrar e logar  
+- CRUD de tarefas funcionando  
+- Aplicação online e documentada no GitHub  
+
+**DICA:** Use GitHub não só para versionar, mas também para mostrar profissionalismo: README bem escrito, commits claros e organização de branches.  
+
+---
+
+✨ Agora seu roadmap está ainda mais sólido, começando com Git/GitHub para que você já pratique colaboração e documentação desde o início.  
+
+Quer que eu detalhe **um mini-guia prático de Git/GitHub** para as primeiras semanas (com comandos essenciais e boas práticas)?
