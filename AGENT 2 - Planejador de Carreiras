@@ -267,3 +267,47 @@ Criar uma aplicação web onde usuários podem se cadastrar, criar tarefas e aco
 ✨ Agora seu roadmap está ainda mais sólido, começando com Git/GitHub para que você já pratique colaboração e documentação desde o início.  
 
 Quer que eu detalhe **um mini-guia prático de Git/GitHub** para as primeiras semanas (com comandos essenciais e boas práticas)?
+
+
+** Trilha de estudos baseado em cursos que a DIO oferece:**
+
+Perfeito, vamos priorizar a **plataforma da DIO** e montar uma sequência de estudos usando ela como base, mas complementando com outros sites quando necessário.  
+
+---
+
+## 📚 Sequência Sugerida de Estudos (120 dias)
+
+### 🔹 **Mês 1 – Fundamentos e GitHub**
+- **DIO:** *Formação HTML Web Developer* → aprender HTML, CSS e fundamentos da web  
+- **Complemento:**  
+  - [W3Schools](https://www.w3schools.com) → prática rápida de HTML/CSS  
+  - [GitHub Docs](https://docs.github.com) → comandos básicos de Git e versionamento  
+
+### 🔹 **Mês 2 – Front-End com React**
+- **DIO:** *Formação React Developer* → componentes, hooks, roteamento  
+- **Complemento:**  
+  - [Scrimba](https://scrimba.com) → exercícios interativos de React  
+  - [MDN Web Docs](https://developer.mozilla.org) → documentação oficial de JavaScript  
+
+### 🔹 **Mês 3 – Back-End com Node.js**
+- **DIO:** *Formação Node.js Developer* → APIs, Express, integração com banco de dados  
+- **Complemento:**  
+  - [The Odin Project](https://www.theodinproject.com) → trilha gratuita de full stack  
+  - [Node.js Docs](https://nodejs.org/en/docs) → referência oficial  
+
+### 🔹 **Mês 4 – Projeto e Portfólio**
+- **DIO:** *Bootcamp Fullstack Developer* → integração front + back  
+- **Complemento:**  
+  - [FreeCodeCamp](https://www.freecodecamp.org) → projetos práticos e desafios  
+  - [Netlify](https://www.netlify.com) / [Vercel](https://vercel.com) → deploy gratuito  
+
+---
+
+## 🌟 Dicas de Uso
+- Use **DIO como trilha principal** (ela já organiza os módulos e bootcamps).  
+- Use os outros sites como **apoio rápido**: documentação, exemplos e prática extra.  
+- Publique **todos os projetos no GitHub** desde o início, mesmo os simples, para mostrar evolução.  
+
+---
+
+👉 Quer que eu monte um **cronograma semanal detalhado** (ex: Semana 1: HTML + GitHub, Semana 2: CSS + GitHub, etc.) já alinhado com os cursos da DIO?
