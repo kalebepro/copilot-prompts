@@ -312,7 +312,6 @@ Perfeito, vamos priorizar a **plataforma da DIO** e montar uma sequência de est
 
 👉 Quer que eu monte um **cronograma semanal detalhado** (ex: Semana 1: HTML + GitHub, Semana 2: CSS + GitHub, etc.) já alinhado com os cursos da DIO?
 
-
 # 📊 Roadmap de Estudos – Desenvolvedor Web Full Stack (120 dias)
 
 Este é meu cronograma de estudos para transição de carreira em **Desenvolvimento Web Full Stack**, adaptado para **6h/semana**.  
@@ -322,29 +321,29 @@ Todos os projetos e exercícios serão documentados aqui no GitHub.
 
 ## 📅 Cronograma Semanal
 
-| Semana | Conteúdo Principal                                | Plataforma                          | Extras                  |
-|--------|---------------------------------------------------|-------------------------------------|-------------------------|
-| 1      | Git e GitHub: repositórios, commits, branches     | GitHub Docs                         | Criar 1º repositório    |
-| 2      | HTML básico: estrutura de páginas                 | DIO - Formação HTML Web Developer   | W3Schools exercícios    |
-| 3      | CSS básico: estilização e responsividade          | DIO - Formação HTML Web Developer   | MDN Web Docs            |
-| 4      | JavaScript fundamentos: variáveis, funções, DOM   | DIO - Formação HTML Web Developer   | FreeCodeCamp exercícios |
-| 5      | JavaScript avançado: eventos, arrays, objetos     | DIO                                 | MDN Web Docs            |
-| 6      | React: componentes e props                        | DIO - Formação React Developer      | Scrimba prática         |
-| 7      | React: estado e hooks                             | DIO - Formação React Developer      | Projeto To-do list      |
-| 8      | React Router e integração com APIs                | DIO                                 | Criar app de clima      |
-| 9      | Node.js: introdução e servidor básico             | DIO - Formação Node.js Developer    | Node.js Docs            |
-| 10     | Express: rotas e middlewares                      | DIO                                 | Projeto CRUD simples    |
-| 11     | Banco de dados SQL                                | DIO                                 | PostgreSQL básico       |
-| 12     | Banco de dados NoSQL (MongoDB)                    | DIO                                 | CRUD com MongoDB        |
-| 13     | Integração front + back                           | DIO Bootcamp Fullstack              | Projeto login/cadastro  |
-| 14     | Autenticação e segurança                          | DIO Bootcamp Fullstack              | JWT básico              |
-| 15     | Deploy em Vercel/Netlify                          | DIO Bootcamp Fullstack              | Publicar projeto        |
-| 16     | Portfólio e entrevistas                           | DIO Bootcamp Fullstack              | GitHub Pages + README   |
+| Semana | Conteúdo Principal                                | Plataforma                          | Extras                  | Status |
+|--------|---------------------------------------------------|-------------------------------------|-------------------------|--------|
+| 1      | Git e GitHub: repositórios, commits, branches     | GitHub Docs                         | Criar 1º repositório    | ⬜ |
+| 2      | HTML básico: estrutura de páginas                 | DIO - Formação HTML Web Developer   | W3Schools exercícios    | ⬜ |
+| 3      | CSS básico: estilização e responsividade          | DIO - Formação HTML Web Developer   | MDN Web Docs            | ⬜ |
+| 4      | JavaScript fundamentos: variáveis, funções, DOM   | DIO - Formação HTML Web Developer   | FreeCodeCamp exercícios | ⬜ |
+| 5      | JavaScript avançado: eventos, arrays, objetos     | DIO                                 | MDN Web Docs            | ⬜ |
+| 6      | React: componentes e props                        | DIO - Formação React Developer      | Scrimba prática         | ⬜ |
+| 7      | React: estado e hooks                             | DIO - Formação React Developer      | Projeto To-do list      | ⬜ |
+| 8      | React Router e integração com APIs                | DIO                                 | Criar app de clima      | ⬜ |
+| 9      | Node.js: introdução e servidor básico             | DIO - Formação Node.js Developer    | Node.js Docs            | ⬜ |
+| 10     | Express: rotas e middlewares                      | DIO                                 | Projeto CRUD simples    | ⬜ |
+| 11     | Banco de dados SQL                                | DIO                                 | PostgreSQL básico       | ⬜ |
+| 12     | Banco de dados NoSQL (MongoDB)                    | DIO                                 | CRUD com MongoDB        | ⬜ |
+| 13     | Integração front + back                           | DIO Bootcamp Fullstack              | Projeto login/cadastro  | ⬜ |
+| 14     | Autenticação e segurança                          | DIO Bootcamp Fullstack              | JWT básico              | ⬜ |
+| 15     | Deploy em Vercel/Netlify                          | DIO Bootcamp Fullstack              | Publicar projeto        | ⬜ |
+| 16     | Portfólio e entrevistas                           | DIO Bootcamp Fullstack              | GitHub Pages + README   | ⬜ |
 
 ---
 
 ## ✅ Como acompanhar
-- Marque cada semana concluída com um **check (✅)**.  
+- Substitua ⬜ por ✅ quando concluir cada semana.  
 - Documente os projetos no GitHub com README detalhado.  
 - Use **GitHub Pages** para publicar seu portfólio final.  
 
