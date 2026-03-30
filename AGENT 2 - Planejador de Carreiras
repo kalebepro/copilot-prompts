@@ -1,10 +1,6 @@
 # PLANO DE ESTUDOS PARA PROGRAMAÇÃO EM 120 DIAS #
 
-Ótima observação! Vamos incluir **Git e GitHub** logo no início do seu roadmap, porque dominar versionamento e colaboração é essencial para qualquer desenvolvedor web.  
 
-Aqui está a versão ajustada do **Roadmap de 120 dias**:
-
----
 
 ## 📅 ROADMAP DE 120 DIAS (atualizado)
 
@@ -58,44 +54,11 @@ Aqui está a versão ajustada do **Roadmap de 120 dias**:
 **SEMANA 15-16:**  
 - Deploy em plataformas gratuitas (Vercel, Render, Netlify)  
 - Preparação para entrevistas e revisão de portfólio  
-- Criar portfólio no GitHub Pages  
-
----
-
-## 🚀 PROJETO DE PORTFÓLIO
-
-**PROJETO:** Plataforma de Tarefas Colaborativas  
-
-**O QUE FAZER:**  
-Criar uma aplicação web onde usuários podem se cadastrar, criar tarefas e acompanhar progresso.  
-
-**ENTREGÁVEIS:**  
-- Front-end responsivo em React  
-- Back-end em Node.js com banco de dados  
-- Deploy funcional acessível online  
-- Repositório GitHub com README completo  
-
-**CRITÉRIOS DE ACEITAÇÃO:**  
-- Usuários conseguem se cadastrar e logar  
-- CRUD de tarefas funcionando  
-- Aplicação online e documentada no GitHub  
-
-**DICA:** Use GitHub não só para versionar, mas também para mostrar profissionalismo: README bem escrito, commits claros e organização de branches.  
-
----
-
-✨ Agora seu roadmap está ainda mais sólido, começando com Git/GitHub para que você já pratique colaboração e documentação desde o início.  
-
-Quer que eu detalhe **um mini-guia prático de Git/GitHub** para as primeiras semanas (com comandos essenciais e boas práticas)?
+- Criar portfólio no GitHub Pages  ---
 
 
-** Trilha de estudos baseado em cursos que a DIO oferece:**
 
-Perfeito, vamos priorizar a **plataforma da DIO** e montar uma sequência de estudos usando ela como base, mas complementando com outros sites quando necessário.  
-
----
-
-## 📚 Sequência Sugerida de Estudos (120 dias)
+## 📚 Sequência Sugerida de Estudos com links de cursos (120 dias)
 
 ### 🔹 **Mês 1 – Fundamentos e GitHub**
 - **DIO:** *Formação HTML Web Developer* → aprender HTML, CSS e fundamentos da web  
@@ -129,9 +92,6 @@ Perfeito, vamos priorizar a **plataforma da DIO** e montar uma sequência de est
 - Publique **todos os projetos no GitHub** desde o início, mesmo os simples, para mostrar evolução.  
 
 ---
-
-👉 Quer que eu monte um **cronograma semanal detalhado** (ex: Semana 1: HTML + GitHub, Semana 2: CSS + GitHub, etc.) já alinhado com os cursos da DIO?
-
 # 📊 Roadmap de Estudos – Desenvolvedor Web Full Stack (120 dias)
 
 Este é meu cronograma de estudos para transição de carreira em **Desenvolvimento Web Full Stack**, adaptado para **6h/semana**.  
